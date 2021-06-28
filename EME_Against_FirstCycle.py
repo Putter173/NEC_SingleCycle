@@ -13,6 +13,10 @@ with open('data.csv') as csv_file:
         else:
             no = row[0]
             energy = row[14]
+            if energy == "":
+                energy = 0
+            else:
+                energy = row[14]
             mass = row[13]
             energy = float(energy)
             mass = float(mass)
