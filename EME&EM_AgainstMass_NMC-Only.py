@@ -41,8 +41,8 @@ with open('data.csv') as csv_file:
 
 plt.scatter(x, y0, color= "red", marker= ".", label = "EME", s=30)
 plt.scatter(x, y1, color= "blue", marker= ".", label = "EM", s=30)
-plt.xlabel('Cell No.')
+plt.xlabel('Mass')
 plt.ylabel('EME & EM')
-plt.title('EME, EM & Cell - @ Cycle 5 (NMC ONLY)')
+plt.title('EME, EM & Mass - @ Cycle 5 (NMC ONLY)')
 plt.legend()
 plt.show() 

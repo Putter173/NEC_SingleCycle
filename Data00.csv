@@ -1,0 +1,4 @@
+No.,Test-Code,Cathode,Anode,Anode Solution,Anode Thickness (μ),Anode Foil,NEC Layer,NEC (Watt),NEC (Minute),Protect Layer,Protect (Watt),Protect (Time),Combined Mass,Energy Discharge Cycle 1,Energy Discharge Cycle 2,Energy Discharge Cycle 3,Energy Discharge Cycle 4,Energy Discharge Cycle 5,Energy Discharge Cycle 6,Energy Discharge Cycle 7,Energy Discharge Cycle 8,Energy Discharge Cycle 9,Energy Discharge Cycle 10,Energy Discharge Cycle 15,Energy Discharge Cycle 20,Energy Discharge Cycle 30,Energy Discharge Cycle 50,Energy Discharge Cycle 100
+1,20210526-141649-05-5,NMC,PVdF,811,50,Al,,,,,,,0.0679,0.468,0.67,0.766,0.708,0.097,0.569,3.241,3.66,3.63,3.556,1.679,,,,
+2,20210526-141911-05-6,NMC,PVdF,811,50,Al,,,,,,,0.072,0.28,0.312,0.333,0.349,0.365,0.379,0.393,0.404,0.413,0.418,0.422,0.411,0.373,0.337,
+3,20210526-142136-05-7,NMC,PVdF,811,50,Al,CuBFO,100,20,Cu,20,2,0.0698,2.03,2.041,1.697,0.825,0.817,0.907,0.907,0.907,0.907,0.907,0.907,,,,
